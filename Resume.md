@@ -1,8 +1,8 @@
-# Your Name
+# Peter Chen
 
-1234 Main St., City, State 12345
+10 Depot Rd Unit 1034, Willington, CT 06279
 
-(555) 555-5555
+(614) 330-0204
 
 your.name@example.com
 
@@ -12,7 +12,7 @@ http://www.linkedin.com/in/yourname
 
 # Summary
 
-Quick Summary (not objective) specifically highlighting why you qualify for the job.
+Quick Summary specifically highlighting why you qualify for the job.
 
 # Work Experience (only last 10 years)
 
