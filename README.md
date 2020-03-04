@@ -14,7 +14,7 @@ http://www.linkedin.com/in/yourname
 
 Quick Summary specifically highlighting why you qualify for the job.
 
-# Work Experience (only last 10 years)
+# Work Experience (only last 15 years)
 
 ## University Name 1 (City, State)
 
